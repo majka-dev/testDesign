@@ -7,3 +7,10 @@
 meteor-platform
 autopublish
 insecure
+useraccounts:core
+useraccounts:bootstrap
+accounts-password
+accounts-facebook
+accounts-google
+materialize:materialize
+iron:router
